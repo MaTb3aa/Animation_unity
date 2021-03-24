@@ -2,10 +2,10 @@
 
 As you all know, a maze is a structure surrounded by walls with numerous paths and passages, making it difficult for anyone to pass from one end of the maze to the other. Just like the actual maze, I developed a game which will have big walls as border and small internal walls to create confusion for the player. This Game have many Function like :
 
-- 1 -Levels the game have many level from easy level to hard one
-- 2 -every level have time you should reach to the final before finishing the time or you will replay the game again
-- 3 -small camera for every level
-- 4 -for every Level have own music .
+- 1 -Levels the game have many level from easy level to hard one.
+- 2 -every level have time you should reach to the final before finishing the time or you will replay the game again.
+- 3 -small camera for every level to show all maze and your position.
+- 4 -for every Level have own music.
 # Here we will see some Photo of the game ,i wish you like it !
 
 ![start](https://user-images.githubusercontent.com/38508098/112303915-87287480-8ca5-11eb-8806-30cf4e235dc1.PNG)
