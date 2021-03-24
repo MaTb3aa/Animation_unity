@@ -6,6 +6,8 @@ As you all know, a maze is a structure surrounded by walls with numerous paths a
 - 2 -every level have time you should reach to the final before finishing the time or you will replay the game again
 - 3 -small camera for every level
 - 4 -for every Level have own music .
+# Here we will see some Photo of the game ,i wish you like it !
+
 ![start](https://user-images.githubusercontent.com/38508098/112303915-87287480-8ca5-11eb-8806-30cf4e235dc1.PNG)
 ![one1](https://user-images.githubusercontent.com/38508098/112303898-8394ed80-8ca5-11eb-82f2-a407b67e182f.PNG)
 ![two](https://user-images.githubusercontent.com/38508098/112303929-8bed2880-8ca5-11eb-9b8b-4cb172f3f407.PNG)
